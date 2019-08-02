@@ -1,2 +1,5 @@
-# Adil-CMP73010
-My repository for my Managing Software Development class.
+# hello-worldprac
+Just testing. 
+
+Why am I doing this?
+I am doing this to show it to my class.
